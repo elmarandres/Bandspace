@@ -6,5 +6,4 @@ import { Component } from '@angular/core';
   styleUrls: ['./room.component.css']
 })
 export class RoomComponent {
-
 }
