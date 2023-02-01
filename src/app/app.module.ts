@@ -19,6 +19,7 @@ import { HomeComponent } from './home/home.component';
 import { ListComponent } from './list/list.component';
 import { MatTableModule } from '@angular/material/table';
 import { MatSortModule } from '@angular/material/sort';
+import { RoomComponent } from './room/room.component';
 
 
 
@@ -29,6 +30,7 @@ import { MatSortModule } from '@angular/material/sort';
     NavComponent,
     HomeComponent,
     ListComponent,
+    RoomComponent,
     
   ],
   imports: [
